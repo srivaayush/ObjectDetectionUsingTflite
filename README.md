@@ -1,6 +1,6 @@
 # object_detector
 
-A new Flutter project.
+An Android application that uses a pre-built TensorFlow Lite model to detect and identify objects from images.
 
 ## Getting Started
 
